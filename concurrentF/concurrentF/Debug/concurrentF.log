@@ -1,0 +1,3 @@
+﻿  concurrentF.cpp
+c:\users\wiebe\source\repos\concurrentf\concurrentf\bmp.h(163): warning C4715: 'BitMap::getPixel': not all control paths return a value
+  concurrentF.vcxproj -> C:\Users\wiebe\source\repos\concurrentF\Debug\concurrentF.exe
